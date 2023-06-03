@@ -68,9 +68,7 @@ const WeatherData = (props) => {
             <p>{getTime(props.city.sunset)}</p>
         </div>
       </div>
-      {/* <p className='copyright'>&copy;Brijesh Yadav 2022</p> */}
-      {/* <p onClick={sideRight} className='rigtharrow'>&gt;</p> */}
-      {/* <p onClick={sideLeft} className='leftarrow'>&lt;</p> */}
+      
     </div>
   )
 }

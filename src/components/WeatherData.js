@@ -13,14 +13,7 @@ const WeatherData = (props) => {
     ).getMinutes()}`;
   };
 
-  // const sideRight = () =>{
-  //   var slider = document.getElementById('scrolledItem');
-  //   slider.scrollLeft = slider.scrollLeft+300;
-  // }
-  // const sideLeft = () =>{
-  //   var slider = document.getElementById('scrolledItem');
-  //   slider.scrollLeft = slider.scrollLeft-300;
-  // }
+
 
   return (
     <div className='weatherData'>
